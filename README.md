@@ -4,10 +4,10 @@ Check it out [live](https://netflix-clone-900eb.web.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-I dont own any rights from Disney as a company, this project was made for educational purposes.
+I dont own any rights from Netflix as a company, this project was made for educational and practical purposes.
 
 ## ScreenShots
-
+![Capture](https://user-images.githubusercontent.com/86429134/133937245-a657ba50-da00-4a87-a78f-7f21d79283f8.JPG)
 
 ## Available Scripts
 
